@@ -4,7 +4,8 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-su -
+sudo su
+
 apt-get remove omxplayer
 
 rm -rf /usr/bin/omxplayer /usr/bin/omxplayer.bin /usr/lib/omxplayer
