@@ -1,0 +1,6 @@
+alsamixer
+Here make sure that your signal is not muted (press ‘m’ to un-mute if it is) – you can also use arrow-up and arrow-down turn the volume up and down.
+
+speaker-test -t sine
+
+sudo nano /usr/share/alsa/alsa.conf
