@@ -1,0 +1,15 @@
+sudo apt-get install libao-dev avahi-utils libavahi-compat-libdnssd-dev libva-dev youtube-dl
+
+wget -O rplay-1.0.1-armhf.deb http://www.vmlite.com/rplay/rplay-1.0.1-armhf.deb
+
+sudo dpkg -i rplay-1.0.1-armhf.deb
+
+Before you use rPlay, you must enter the license key.
+
+Launch the desktop and open the web browser.
+
+Type http://localhost:7100/admin and hit enter.
+
+The username is admin and password admin.
+
+Scroll to the end of the page and enter the License key (License key: S1377T8072I7798N4133R)
