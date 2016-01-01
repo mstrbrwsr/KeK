@@ -2,6 +2,7 @@
 raspberry video art wall
 
 sudo apt-get update
+
 sudo apt-get upgrade
 
 su -
