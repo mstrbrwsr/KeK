@@ -40,6 +40,7 @@ omxplayer-sync -bmuv synctest.mp4
  hdmi_drive=2
  
  #force audio out to rasp analog 3.5 jack
+ 
  sudo amixer cset numid=3 <output>
 
 0=auto
@@ -47,4 +48,5 @@ omxplayer-sync -bmuv synctest.mp4
 2=hdmi
 
 #disable screensaver
+
 sudo apt-get install xscreensaver
