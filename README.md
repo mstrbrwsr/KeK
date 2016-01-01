@@ -1,4 +1,4 @@
-# KeK
+# omxplayersync
 raspberry video art wall
 
 sudo apt-get update
