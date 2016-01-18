@@ -2,4 +2,5 @@
 
 sudo apt-get install xscreensaver
 
-xscreensaver
+#ga naar het startmenu ->preferences->screensaver
+#op het tablad displaymodes kies mode: disable screensaver
