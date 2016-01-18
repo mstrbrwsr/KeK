@@ -1,0 +1,7 @@
+omxplayer
+
+omxplayer -b --loop filename.mp4
+
+#-b black, het ongebruikte gedeelte van het scherm wordt gevuld met zwart
+#--loop blijft doorspelen
+#let op alles hoofdletter gevoelig
