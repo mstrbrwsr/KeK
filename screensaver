@@ -1,0 +1,5 @@
+#disable screensaver
+
+sudo apt-get install xscreensaver
+
+xscreensaver
