@@ -1,4 +1,21 @@
-# omxplayersync
+#gebruik omxplayer-sync als master
+omxplayer-sync -bmuv synctest.mp4
+
+#-b black
+#-m master
+#-u loop
+#-v verbose ->maakt een log aan en geeft af en toe informatie
+
+#gebruik omxplayer-sync als master
+omxplayer-sync -bmuv synctest.mp4
+
+#-b black
+#-l slave
+#-u loop
+#-v verbose ->maakt een log aan en geeft af en toe informatie
+
+
+# installeer omxplayer-sync
 
 sudo apt-get update
 
